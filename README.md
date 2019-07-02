@@ -1,0 +1,2 @@
+# 70king
+GitHub Pages
